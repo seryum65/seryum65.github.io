@@ -370,6 +370,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/hero-bg3.jpg") top right;
   background-size: cover;
+  
 }
 #hero .container {
   padding-top: 70px;
