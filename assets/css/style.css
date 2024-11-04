@@ -806,6 +806,15 @@ section {
 .services .iconbox-red:hover .icon path {
   fill: #ff5828;
 }
+.services .iconbox-black i {
+  color: #090909;
+}
+.services .iconbox-black:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-black:hover .icon path {
+  fill: #181817;
+}
 .services .iconbox-teal i {
   color: #11dbcf;
 }
@@ -814,16 +823,6 @@ section {
 }
 .services .iconbox-teal:hover .icon path {
   fill: #11dbcf;
-}
-
-.services .iconbox-black i {
-  color: #010b0b;
-}
-.services .iconbox-black:hover .icon i {
-  color: #fff;
-}
-.services .iconbox-black:hover .icon path {
-  fill: #011412;
 }
 
 /*--------------------------------------------------------------
