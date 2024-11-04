@@ -792,7 +792,7 @@ section {
   color: #ffbb2c;
 }
 .services .iconbox-yellow:hover .icon i {
-  color: #fff;
+  color: #4b8bbe;
 }
 .services .iconbox-yellow:hover .icon path {
   fill: #ffbb2c;
@@ -814,6 +814,16 @@ section {
 }
 .services .iconbox-teal:hover .icon path {
   fill: #11dbcf;
+}
+
+.services .iconbox-black i {
+  color: #010b0b;
+}
+.services .iconbox-black:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-black:hover .icon path {
+  fill: #011412;
 }
 
 /*--------------------------------------------------------------
